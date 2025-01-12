@@ -67,6 +67,13 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 
 
+## References:
+
+1. [Document1](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
+2. [Document2](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
+3. [pgvector genAI demo](https://colab.research.google.com/github/GoogleCloudPlatform/python-docs-samples/blob/main/cloud-sql/postgres/pgvector/notebooks/pgvector_gen_ai_demo.ipynb#scrollTo=jPPUSBKb1Soc)
+
+
 ## 💬 Feedback & Support
 
 I'm always looking to improve! Share your thoughts and suggestions:
@@ -75,10 +82,11 @@ I'm always looking to improve! Share your thoughts and suggestions:
 - **GitHub:** [MansiMore99](https://github.com/MansiMore99)
 - **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📢 Contributing
 
 Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
 
+
 <a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+
