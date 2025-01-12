@@ -9,7 +9,7 @@ Here we will create a prototype Python application that would be able to process
 
 ### How to install pgvector in Cloud SQL for PostgreSQL:
 
-The pgvector extension can be created into an existing Cloud SQL for PostgreSQL instance and AlloyDB for PostgreSQL instance with the help of the following command. If you don’t have an instance yet, you can create one for Cloud SQL.
+The pgvector extension can be created into an existing Cloud SQL for PostgreSQL instance and AlloyDB for PostgreSQL instance with the help of the following command. If you don’t have an instance yet, you can create one for [Cloud SQL](https://cloud.google.com/sql/docs/postgres/create-instance).
 
 ```
 >> CREATE EXTENSION IF NOT EXISTS vector;
