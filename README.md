@@ -35,11 +35,9 @@ CREATE TABLE
 INSERT 0 2
 ```
 
+<img width="1261" alt="Screenshot 2025-01-12 at 4 41 00 AM" src="https://github.com/user-attachments/assets/8e371471-0900-4013-b2f5-03f316c631a9" />
 
-<img width="800" alt="Screenshot 2025-01-12 at 4 02 10 AM" src="https://github.com/user-attachments/assets/a8187b59-13a9-4cfb-a90c-942c38aef9a8" />
-
-
-# Building an application with a toy dataset:
+# Building an application with a dataset:
 
 Now that you have a general understanding of pgvector and LLMs, let’s begin the process of constructing your application with these tools. Not only that, but we also will utilize LangChain, which is an open-source tool offering several built-in modules to ease the development of intricate applications with LLMs.
 
@@ -56,8 +54,31 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 * Case 1: Finding similar toys using pgvector cosine search operator
 
+
+
+
+
+
+
+
   
 * Case 2: Building an AI-curated contextual hybrid search
 
 
 
+
+## 💬 Feedback & Support
+
+I'm always looking to improve! Share your thoughts and suggestions:
+
+- **Email:** mansi.more943@gmail.com
+- **GitHub:** [MansiMore99](https://github.com/MansiMore99)
+- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📢 Contributing
+
+Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
