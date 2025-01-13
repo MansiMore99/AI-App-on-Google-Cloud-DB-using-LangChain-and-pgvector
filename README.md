@@ -1,5 +1,5 @@
 # 🧸 AI-App-on-Google-Cloud-DB-using-LangChain-and-pgvector 🎲
-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![image](https://github.com/user-attachments/assets/496cbcf2-466d-400a-a20a-79a766d83d65)
 
@@ -25,7 +25,7 @@ Oh come on let’s put our AI-generated taglines 🤖✨ to work and probably ge
 
 **3. ✂️ Intelligent Text Splitting**
 
-**4. 🧠 AI-Generated Descriptions:**
+**4. 🧠 AI-Generated Descriptions**
 
 
 ### How to install pgvector in Cloud SQL for PostgreSQL:
@@ -63,7 +63,7 @@ INSERT 0 2
 
 
 # Building an application with a dataset:
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Now that you have a general understanding of pgvector and LLMs, let’s begin the process of constructing your application with these tools. Not only that, but we also will utilize LangChain, which is an open-source tool offering several built-in modules to ease the development of intricate applications with LLMs.
 
@@ -87,7 +87,6 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 
 ### Results:
------------------------------------------------------------------------------------------------------------------------------------------
 
 * **Case 1:** **🔍 Finding similar toys using pgvector cosine search operator**
 
@@ -102,7 +101,6 @@ For in-detail code knowledge, I would suggest going through [How to build an AI 
 
 
 ## References:
------------------------------------------------------------------------------------------------------------------------------------------
 
 1. [Document1](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
 2. [Document2](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
@@ -110,7 +108,6 @@ For in-detail code knowledge, I would suggest going through [How to build an AI 
 
 
 ## 💬 Feedback & Support:
------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm always looking to improve! Share your thoughts and suggestions:
 
@@ -119,7 +116,6 @@ I'm always looking to improve! Share your thoughts and suggestions:
 - **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
 
 ## 📢 Contributing:
------------------------------------------------------------------------------------------------------------------------------------------
 
 Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
 
