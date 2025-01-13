@@ -1,11 +1,30 @@
-# AI-App-on-Google-Cloud-DB-using-LangChain-and-pgvector
+# 🧸 AI-App-on-Google-Cloud-DB-using-LangChain-and-pgvector 🎲
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/496cbcf2-466d-400a-a20a-79a766d83d65)
 
+Say Goodbye to dull and uninspiring captions mentioning ‘orange and white cat stuffed animal’ like you did years ago – with the help of AI, you can come up with captions like 
+```
+A fun and fierce friend to accompany your child, from the crib till pre-school
+```
 
-Here we will create a prototype Python application that would be able to process and answer questions in natural language template by extracting information from your PostgreSQL database. Next, we will explore even more advanced ideas to encode the new text and generate new AI-derived product descriptions for children toys based on the dataset we have. Say no more to dull and uninspiring descriptions mentioning ‘orange and white cat stuffed animal’ like you did years ago – with the help of artificial intelligence, you can come up with descriptions like ‘A fun and fierce friend to accompany your child, from the crib till pre-school’. Oh come on let’s put our AI-generated taglines to work and probably get some interesting results!
+Here we will create a Python application that would be able to process and answer questions in natural language template by extracting information from your PostgreSQL database. Next, we will explore even more advanced ideas to encode the new text and generate new AI-derived product descriptions for children toys based on the dataset we have. 
 
+Oh come on let’s put our AI-generated taglines to work and probably get some interesting results!
+
+### 🚀 Features:
+
+**1. 📋 Structured Database:**
+   * product_id 🆔
+   * product_name 🎁
+   * description 📝
+   * list_price 💵
+
+**2. 🔍 Semantic Similarity Search**
+
+**3. ✂️ Intelligent Text Splitting**
+
+**4. 🧠 AI-Generated Descriptions:**
 
 ### How to install pgvector in Cloud SQL for PostgreSQL:
 
@@ -52,13 +71,15 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 ### Results:
 
-* **Case 1:** Finding similar toys using pgvector cosine search operator
+* **Case 1:** 🔍 Finding similar toys using pgvector cosine search operator
 
 <img width="708" alt="Screenshot 2025-01-13 at 2 10 04 AM" src="https://github.com/user-attachments/assets/d3037ceb-dbaf-44f7-96dc-7c9fa384a222" />
 
-* Case 2: Building an AI-curated contextual hybrid search
+* Case 2: 🤖 Building an AI-curated contextual hybrid search
 
+<img width="1383" alt="Screenshot 2025-01-13 at 2 20 40 AM" src="https://github.com/user-attachments/assets/82bb9916-8977-48e2-837d-e22ceca8350d" />
 
+For in-detail code knowledge, I would suggest going through [How to build an AI App on Google Cloud PostgreSQL DB using LangChain and pgvector](https://medium.com/@mansi.more943/how-to-build-an-ai-app-on-google-cloud-postgresql-db-using-langchain-and-pgvector-ad5a0f7e23a4)
 
 
 ## References:
