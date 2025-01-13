@@ -52,8 +52,9 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 ### Results:
 
-* Case 1: Finding similar toys using pgvector cosine search operator
+* **Case 1:** Finding similar toys using pgvector cosine search operator
 
+  
 
 
 
@@ -62,6 +63,9 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 
   
+
+
+
 * Case 2: Building an AI-curated contextual hybrid search
 
 
