@@ -45,7 +45,7 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 1. Fetch the Records and copy it in a PostgreSQL table of the name products. This table has 4 fields: product_id: Int; product_name: varchar ; description: LONGTEXT; list_price: decimal.
 2. Read each text value in the long description field, then break up each resultant value into smaller textual values for which vector embeddings are to be generated.
-3. Split long text into smaller chunks with LangChain using [RecursiveCharacterTextSplitter](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter/) method.
+3. Split long text into smaller chunks with LangChain using [RecursiveCharacterTextSplitter](https://python.langchain.com/api_reference/text_splitters/character/langchain_text_splitters.character.RecursiveCharacterTextSplitter.html) method.
 4. The vector embeddings are then stored in another PostgreSQL table known as product_embeddings by using the pgvector extension. The product_embeddings table contains a foreign key representing a table with products.
 5. After filtering the products according to the user query, generate vectors for the current user query and use the pgvector vector similarity search operators to find the most similar products to the vector of the current user query.
 
