@@ -28,7 +28,7 @@ Oh come on let’s put our AI-generated taglines 🤖✨ to work and probably ge
 **4. 🧠 AI-Generated Descriptions**
 
 
-### How to install pgvector in Cloud SQL for PostgreSQL:
+### 📥 How to install pgvector in Cloud SQL for PostgreSQL:
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 The pgvector extension can be created into an existing Cloud SQL for PostgreSQL instance with the help of the following command. If you don’t have an instance yet, you can create one for [Cloud SQL](https://cloud.google.com/sql/docs/postgres/create-instance).
@@ -38,7 +38,7 @@ The pgvector extension can be created into an existing Cloud SQL for PostgreSQL 
 >> CREATE EXTENSION
 ```
 
-### 'vector` data type:
+### 📥 'vector` data type:
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 The sample code below includes three-dimensional vectors It is worth stating that in real-life AI/ML applications, vectors possess hundreds of dimensions, even though, for the sake of demonstration, we used four-dimensional data only.
@@ -62,12 +62,12 @@ INSERT 0 2
 <img width="1261" alt="Screenshot 2025-01-12 at 4 41 00 AM" src="https://github.com/user-attachments/assets/8e371471-0900-4013-b2f5-03f316c631a9" />
 
 
-# Building an application with a dataset:
+# 🛠️ Building an application with a dataset:
 
 
 Now that you have a general understanding of pgvector and LLMs, let’s begin the process of constructing your application with these tools. Not only that, but we also will utilize LangChain, which is an open-source tool offering several built-in modules to ease the development of intricate applications with LLMs.
 
-### Summary:
+### ✍️ Summary:
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 1. Fetch the Records and copy it in a PostgreSQL table of the name products.
@@ -100,7 +100,7 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 For in-detail code knowledge, I would suggest going through [How to build an AI App on Google Cloud PostgreSQL DB using LangChain and pgvector](https://medium.com/@mansi.more943/how-to-build-an-ai-app-on-google-cloud-postgresql-db-using-langchain-and-pgvector-ad5a0f7e23a4)
 
 
-## References:
+## 💬 References:
 
 1. [Document1](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
 2. [Document2](https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve)
