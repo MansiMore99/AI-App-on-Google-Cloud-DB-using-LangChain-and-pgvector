@@ -54,17 +54,7 @@ Now that you have a general understanding of pgvector and LLMs, let’s begin th
 
 * **Case 1:** Finding similar toys using pgvector cosine search operator
 
-  
-
-
-
-
-
-
-
-  
-
-
+<img width="708" alt="Screenshot 2025-01-13 at 2 10 04 AM" src="https://github.com/user-attachments/assets/d3037ceb-dbaf-44f7-96dc-7c9fa384a222" />
 
 * Case 2: Building an AI-curated contextual hybrid search
 
